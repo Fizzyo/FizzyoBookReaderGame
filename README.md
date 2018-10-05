@@ -1,6 +1,5 @@
-# MonsterHeroBattle
-
-Monster Hero Battle- Take on Monster use your breadth to defeat the monster and fizzyo device button to time your attack
+# Fizzyo Book Reader
+Fizzyo Book Reader - Read and book and use your beathe to turn the pages of short open source books
 
 This project was developed by UCL Computer Science students as part of the UCL Industry Exchange Network (http://ixn.org.uk) which pairs university students with industry as part of their curriculum. Academic Project lead - Dr Dean Mohamedally, d.mohamedally@ucl.ac.uk 1st Year UG Student project team Supervised by - Prof. Eleanor Main of UCL/GOSH
 
